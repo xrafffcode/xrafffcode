@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @xrafffcode
+- 👋 Hi, I’m Muhamad Rafli Alfarizqi
 - 👀 I’m interested in Android Developer and Web Developer
 - 🌱 I’m currently learning Kotlin and Flutter
 - 💞️ I’m looking to collaborate on project
