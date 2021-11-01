@@ -8,9 +8,9 @@
 
 ### User Of
 
-![Android Studio](https://img.shields.io/badge/-Android Studio-000?&logo=AndroidStudio)
+![Android Studio](https://img.shields.io/badge/-AndroidStudio-000?&logo=AndroidStudio)
 ![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows&logoColor=4479A1)
-![VSC](https://img.shields.io/badge/-Visual Studio Code-000?&logo=VisualStudioCode&logoColor=4479A1)
+![VSC](https://img.shields.io/badge/-VisualStudioCode-000?&logo=VisualStudioCode&logoColor=4479A1)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 <!---
