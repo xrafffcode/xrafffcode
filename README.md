@@ -14,6 +14,7 @@
 ![VSC](https://img.shields.io/badge/-VisualStudioCode-000?&logo=VisualStudioCode&logoColor=4479A1)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
 
 ### Kontribusi
 [![Telkom School](https://img.shields.io/badge/-❤️%20Telkom%20School-000?)](http://telkomschools.sch.id/)
