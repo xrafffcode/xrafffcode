@@ -8,7 +8,7 @@
 
 ### User Of
 
-![Windows](https://img.shields.io/badge/-AndroidStudio-000?&logo=AndroidStudio&logoColor=0052CC)
+![Windows](https://img.shields.io/badge/-AndroidStudio-000?&logo=AndroidStudio)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 <!---
