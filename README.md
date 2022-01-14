@@ -13,7 +13,6 @@
 ![Android Studio](https://img.shields.io/badge/-AndroidStudio-000?&logo=AndroidStudio)
 ![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows&logoColor=4479A1)
 ![VSC](https://img.shields.io/badge/-VisualStudioCode-000?&logo=VisualStudioCode&logoColor=4479A1)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
 
 ### Kontribusi
