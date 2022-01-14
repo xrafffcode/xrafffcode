@@ -1,6 +1,7 @@
 ### Bahasa Pemrograman
 
 [![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)](https://github.com/xrafffcode?tab=repositories&q=&type=&language=kotlin)
+[![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)](https://github.com/xrafffcode?tab=repositories&q=&type=&language=dart)
 [![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)](https://github.com/xrafffcode?tab=repositories&q=&type=&language=html5)
 [![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=007ACC)](https://github.com/xrafffcode?tab=repositories&q=&type=&language=css)
 [![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=4479A1)](https://github.com/xrafffcode?tab=repositories&q=&type=&language=PHP)
@@ -12,7 +13,6 @@
 ![Android Studio](https://img.shields.io/badge/-AndroidStudio-000?&logo=AndroidStudio)
 ![Windows](https://img.shields.io/badge/-Windows-000?&logo=Windows&logoColor=4479A1)
 ![VSC](https://img.shields.io/badge/-VisualStudioCode-000?&logo=VisualStudioCode&logoColor=4479A1)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=FCC624)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
 
