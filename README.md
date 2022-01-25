@@ -25,6 +25,7 @@
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xrafffcode&layout=compact&theme=tokyonight)
 
+![Trophy](https://github-profile-trophy.vercel.app/?username=xrafffcode&theme=onedark&column=3&margin-w=15&margin-h=15)
 
 <!---
 xrafffcode/xrafffcode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
