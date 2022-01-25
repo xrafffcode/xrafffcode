@@ -19,9 +19,11 @@
 [![Telkom School](https://img.shields.io/badge/-❤️%20Telkom%20School-000?)](http://telkomschools.sch.id/)
 
 # Stats
-<p align=left> <img src=https://komarev.com/ghpvc/?username=xrafffcode alt=xrafffcode /> </p>
-
-<a href="https://www.xrafffcode.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=xrafffcode&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xrafffcode&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=10&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,ffff,c64dff&theme=graywhite" /></a>
+ ![xrafff's GitHub stats](https://github-readme-stats.vercel.app/api?username=xrafffcode&show_icons=true&count_private=true&theme=tokyonight)
+  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xrafffcode&theme=tokyonight)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xrafffcode&layout=compact&theme=tokyonight)
 
 
 <!---
