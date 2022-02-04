@@ -1,7 +1,8 @@
-### Bahasa Pemrograman
+### My Skill
 
 [![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)](https://github.com/xrafffcode?tab=repositories&q=&type=&language=kotlin)
 [![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)](https://github.com/xrafffcode?tab=repositories&q=&type=&language=dart)
+[![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)](https://github.com/xrafffcode?tab=repositories&q=&type=&language=blade)
 [![HTML](https://img.shields.io/badge/-HTML-000?&logo=html5)](https://github.com/xrafffcode?tab=repositories&q=&type=&language=html5)
 [![CSS](https://img.shields.io/badge/-CSS-000?&logo=css3&logoColor=007ACC)](https://github.com/xrafffcode?tab=repositories&q=&type=&language=css)
 [![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP&logoColor=4479A1)](https://github.com/xrafffcode?tab=repositories&q=&type=&language=PHP)
