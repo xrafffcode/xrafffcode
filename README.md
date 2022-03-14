@@ -10,12 +10,6 @@ Hello👋 I'm Rafli👨‍💻
   <a href="https://www.linkedin.com/in/muhamad-rafli-alfarizqi-352217220/"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin" /></a>
   <a href="https://www.instagram.com/xrafff_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.youtube.com/channel/UCmz9e1C6XEEcSFejjKr4SYw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <button onclick="myFunction()">Try it</button>
-
-<script>
-function myFunction() {
-  alert("Hello! I am an alert box!");
-}
 </p>
 
 
