@@ -15,7 +15,7 @@ Hello👋 I'm Rafli👨‍💻
 
 
 
-### My Skill
+### My Skills
 
 [![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin)](https://github.com/xrafffcode?tab=repositories&q=&type=&language=kotlin)
 [![Flutter](https://img.shields.io/badge/-Flutter-000?&logo=Flutter)](https://github.com/xrafffcode?tab=repositories&q=&type=&language=dart)
