@@ -41,7 +41,7 @@ Hello👋 I'm Rafli👨‍💻
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xrafffcode&theme=tokyonight)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xrafffcode&layout=compact&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xrafffcode&layout=compact&theme=tokyonigh)
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=xrafffcode&theme=onedark&column=3&margin-w=15&margin-h=15)
 
