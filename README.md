@@ -39,9 +39,9 @@ Hello👋 I'm Rafli👨‍💻
 # Stats
  ![xrafff's GitHub stats](https://github-readme-stats.vercel.app/api?username=xrafffcode&show_icons=true&count_private=true)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xrafffcode&theme=tokyonight)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xrafffcode&theme=tokyonight&theme=tokyonight)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xrafffcode&layout=compact&theme=tokyonight)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xrafffcode&layout=compact&theme=dark)
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=xrafffcode&theme=onedark&column=3&margin-w=15&margin-h=15)
 
