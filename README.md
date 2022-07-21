@@ -37,11 +37,11 @@ Hello👋 I'm Rafli👨‍💻
 [![Telkom School](https://img.shields.io/badge/-❤️%20Telkom%20School-000?)](http://telkomschools.sch.id/)
 
 # Stats
- ![xrafff's GitHub stats](https://github-readme-stats.vercel.app/api?username=xrafffcode&show_icons=true&count_private=true&theme=dark)
+ ![xrafff's GitHub stats](https://github-readme-stats.vercel.app/api?username=xrafffcode&show_icons=true&count_private=true&theme=onedark)
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xrafffcode&theme=tokyonight&theme=dark)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xrafffcode&theme=tokyonight&theme=onedark)
   
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xrafffcode&layout=compact&theme=dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xrafffcode&layout=compact&theme=onedark)
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=xrafffcode&theme=onedark&column=3&margin-w=15&margin-h=15)
 
