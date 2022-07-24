@@ -1,5 +1,6 @@
 <h1 align="center">
-Hello👋 I'm Rafli👨‍💻
+Hello👋 I'm Rafli
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </h1>
 
 <p align="center">
