@@ -1,7 +1,5 @@
 <h1 align="center">
-Hello👋 I'm Rafli
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</h1>
+Hello👋 I'm Rafli 🧑‍💻</h1>
 
 <p align="center">
   I'm a intern backend developer at <a href="https://logeetrans.com">LogeeTrans by Telkom Indonesia.</a>
@@ -13,7 +11,7 @@ Hello👋 I'm Rafli
   <a href="https://www.youtube.com/channel/UCmz9e1C6XEEcSFejjKr4SYw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 
 </p>
-
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 
 ### My Skills
