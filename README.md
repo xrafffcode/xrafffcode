@@ -32,8 +32,6 @@ Hello👋 I'm Rafli 🧑‍💻</h1>
 ![VSC](https://img.shields.io/badge/-VisualStudioCode-000?&logo=VisualStudioCode&logoColor=4479A1)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
 
-### Kontribusi
-[![Telkom School](https://img.shields.io/badge/-❤️%20Telkom%20School-000?)](http://telkomschools.sch.id/)
 
 # Stats
  ![xrafff's GitHub stats](https://github-readme-stats.vercel.app/api?username=xrafffcode&show_icons=true&count_private=true&theme=onedark)
