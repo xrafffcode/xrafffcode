@@ -2,7 +2,7 @@
 Hello👋 I'm Rafli 🧑‍💻</h1>
 
 <p align="center">
-  I'm a intern backend developer at <a href="https://logeetrans.com">LogeeTrans by Telkom Indonesia.</a>
+  I'm a intern backend developer at <a href="https://logeetrans.com">Logee by Telkom Indonesia.</a>
 </p>
 
 <p align="center">
