@@ -2,7 +2,7 @@
 Hello👋 I'm Rafli 🧑‍
 
 </h1>
-<img src"https://user-images.githubusercontent.com/70202056/190202998-934c0b6a-077a-49e7-ae30-be5635d0a537.gif" />
+<img src"https://media4.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" />
 
 
 <p align="center">
