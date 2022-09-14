@@ -2,7 +2,7 @@
 Hello👋 I'm Rafli 🧑‍
 
 </h1>
-<img align='center' src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://user-images.githubusercontent.com/70202056/190202712-226e96c3-b8ee-4c00-9bc6-bb9765d0cc83.gif)" width="230">
+<img align='center' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p align="center">
   I'm a intern backend developer at <a href="https://logee.id/">Logee by Telkom Indonesia.</a>
 </p>
