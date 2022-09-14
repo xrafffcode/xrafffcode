@@ -36,7 +36,8 @@ Hello👋 I'm Rafli 🧑‍💻</h1>
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
 
 
-<center># Stats</center>
+<h1 align="center">
+Stats</h1>
  ![xrafff's GitHub stats](https://github-readme-stats.vercel.app/api?username=xrafffcode&show_icons=true&count_private=true&theme=onedark)
   
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xrafffcode&theme=tokyonight&theme=onedark)
