@@ -18,18 +18,15 @@ Hello👋 I'm Rafli 🧑‍
   <a href="https://www.youtube.com/channel/UCmz9e1C6XEEcSFejjKr4SYw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 
 </p>
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xrafffcode&theme=tokyonight&theme=onedark)
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xrafffcode&layout=compact&theme=onedark)
 
-<h1 align="center">
-Stats</h1>
+<div align="center">
 
- ![xrafff's GitHub stats](https://github-readme-stats.vercel.app/api?username=xrafffcode&show_icons=true&count_private=true&theme=onedark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xrafffcode&theme=tokyonight&theme=onedark)
+
+   ![xrafff's GitHub stats](https://github-readme-stats.vercel.app/api?username=xrafffcode&show_icons=true&count_private=true&theme=onedark)
  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xrafffcode&layout=compact&theme=onedark)
 
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=xrafffcode&theme=onedark&column=3&margin-w=15&margin-h=15)
 
 <!---
 xrafffcode/xrafffcode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
