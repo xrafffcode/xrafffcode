@@ -2,7 +2,7 @@
 Hello👋 I'm Rafli 🧑‍
 
 </h1>
-<img src"https://media4.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif" />
+<img src"[https://media4.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif"](https://media4.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif) />
 
 
 <p align="center">
@@ -42,8 +42,9 @@ Hello👋 I'm Rafli 🧑‍
 
 <h1 align="center">
 Stats</h1>
+
  ![xrafff's GitHub stats](https://github-readme-stats.vercel.app/api?username=xrafffcode&show_icons=true&count_private=true&theme=onedark)
-  
+ 
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xrafffcode&theme=tokyonight&theme=onedark)
   
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xrafffcode&layout=compact&theme=onedark)
