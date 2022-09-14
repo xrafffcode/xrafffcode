@@ -2,7 +2,9 @@
 Hello👋 I'm Rafli 🧑‍
 
 </h1>
-<img align='center' src="<img align='center' src="https://user-images.githubusercontent.com/70202056/190202712-226e96c3-b8ee-4c00-9bc6-bb9765d0cc83.gif" width="230">" width="230">
+![programming](https://user-images.githubusercontent.com/70202056/190202998-934c0b6a-077a-49e7-ae30-be5635d0a537.gif)
+
+
 <p align="center">
   I'm a intern backend developer at <a href="https://logee.id/">Logee by Telkom Indonesia.</a>
 </p>
