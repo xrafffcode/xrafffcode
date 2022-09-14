@@ -2,8 +2,8 @@
 Hello👋 I'm Rafli 🧑‍
 
 </h1>
-<img src"[https://media4.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif"](https://media4.giphy.com/media/jTNG3RF6EwbkpD4LZx/giphy.gif) />
 
+![programming](https://user-images.githubusercontent.com/70202056/190204382-b4fcb7d6-2913-4be3-bf4f-5db4ed5edae0.gif)
 
 <p align="center">
   I'm a intern backend developer at <a href="https://logee.id/">Logee by Telkom Indonesia.</a>
