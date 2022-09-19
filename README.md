@@ -5,9 +5,7 @@ Hello👋 I'm Rafli 🧑‍
 
 ![programming](https://user-images.githubusercontent.com/70202056/190204382-b4fcb7d6-2913-4be3-bf4f-5db4ed5edae0.gif)
 
-<p align="center">
-  I'm a intern backend developer at <a href="https://logee.id/">Logee by Telkom Indonesia.</a>
-</p>
+
 <p align="center">
   <a href="https://drive.google.com/drive/folders/1ia5pM_PEJZ6vjCKew8L6tHACalLNkJRY?usp=sharing">Achievements</a>
 </p>
