@@ -19,7 +19,5 @@
 5. Top 2 Web Design Competition by Institut Technology Telkom Purwokerto `2022`
 6. Top 2 Apps Competition Dinacom 2023 by Dian Nuswantoro University Semarang `2023`
 
-##### Work Experience:
 
-
-<img src="https://komarev.com/ghpvc/?username=ragilputri&color=blue&style=flat-square" align="left" />
+<img src="https://komarev.com/ghpvc/?username=xrafffcode&color=blue&style=flat-square" align="left" />
