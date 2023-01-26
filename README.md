@@ -1,33 +1,25 @@
-<h1 align="center">
-Hello👋 I'm Rafli 🧑‍
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, I'm Muhamad Rafli Al Farizqi ! </h2>
 
-</h1>
+##### About Me :
+- 🔭 I’m currently working on developing the app
+- 🌱 I’m currently learning web programming with Go Fiber
+- 📫 How to reach me: yusfiwawan2@gmail.com
+- ⚡ Fun fact: I have high curiosity
 
-![programming](https://user-images.githubusercontent.com/70202056/190204382-b4fcb7d6-2913-4be3-bf4f-5db4ed5edae0.gif)
+##### Education:
 
+1. [SMK Telkom Purwokerto](https://smktelkom-pwt.sch.id/) | RPL (Software engineering) | Purwokerto `2021-2023`
 
-<p align="center">
-  <a href="https://drive.google.com/drive/folders/1ia5pM_PEJZ6vjCKew8L6tHACalLNkJRY?usp=sharing">Achievements</a>
-</p>
+##### Achivement: [My Certificate](https://drive.google.com/drive/folders/1ia5pM_PEJZ6vjCKew8L6tHACalLNkJRY?usp=share_link)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/muhamad-rafli-alfarizqi-352217220/"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin" /></a>
-  <a href="https://www.instagram.com/xrafff_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.youtube.com/channel/UCmz9e1C6XEEcSFejjKr4SYw"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+1. Top 1 Hackathon Competition by UIN Sunan Gunung Djati Bandung `2022`
+2. Top 1 Liga Coding For Beginner by Skillvull `2022`
+3. Top 2 UI/UX Competition by Dian Nuswantoro University Semarang  `2022`
+4. Top 2 Web Design Competition by Politeknik Negeri Jakarta `2022`
+5. Top 2 Web Design Competition by Institut Technology Telkom Purwokerto `2022`
+6. Top 2 Apps Competition Dinacom 2023 by Dian Nuswantoro University Semarang `2023`
 
-</p>
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xrafffcode&theme=tokyonight&theme=onedark)
-
-   ![xrafff's GitHub stats](https://github-readme-stats.vercel.app/api?username=xrafffcode&show_icons=true&count_private=true&theme=onedark)
- 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xrafffcode&layout=compact&theme=onedark)
+##### Work Experience:
 
 
-<!---
-xrafffcode/xrafffcode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
+<img src="https://komarev.com/ghpvc/?username=ragilputri&color=blue&style=flat-square" align="left" />
