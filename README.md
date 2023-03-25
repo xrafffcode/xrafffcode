@@ -12,10 +12,11 @@
 
 ##### Achivement: [My Certificate](https://drive.google.com/drive/folders/1ia5pM_PEJZ6vjCKew8L6tHACalLNkJRY?usp=share_link)
 
-1. Top 1 Hackathon Competition by UIN Sunan Gunung Djati Bandung `2022`
-2. Top 1 Liga Coding For Beginner by Skillvull `2022`
-3. Top 2 UI/UX Competition by Dian Nuswantoro University Semarang  `2022`
-4. Top 2 Web Design Competition by Politeknik Negeri Jakarta `2022`
-5. Top 2 Web Design Competition by Institut Technology Telkom Purwokerto `2022`
-6. Top 2 Apps Competition Dinacom 2023 by Dian Nuswantoro University Semarang `2023`
-
+1. 1St Winner Lomba Kompetensi Siswa Tingkat Kabupaten `2023`
+2. 1St Winner Liga Coding For Beginner by Skillvull `2022`
+3. 1St Winner Hackathon Competition by UIN Sunan Gunung Djati Bandung `2022`
+4. 2Nd Winner UI/UX Competition by Dian Nuswantoro University Semarang  `2022`
+5. 2Nd Winner Web Design Competition by Politeknik Negeri Jakarta `2022`
+6. 2Nd Winner Web Design Competition by Institut Technology Telkom Purwokerto `2022`
+7. 2Nd Winner Apps Competition Dinacom 2023 by Dian Nuswantoro University Semarang `2023`
+8. 3Rd Winner Web Design Competition by Difest `2023`
