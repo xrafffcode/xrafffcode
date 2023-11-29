@@ -20,3 +20,4 @@
 6. 2Nd Winner Web Design Competition by Institut Technology Telkom Purwokerto `2022`
 7. 2Nd Winner Apps Competition Dinacom 2023 by Dian Nuswantoro University Semarang `2023`
 8. 3Rd Winner Web Design Competition by Difest `2023`
+9. 3Rd Winner Web Design Competition by Mifest `2023`
