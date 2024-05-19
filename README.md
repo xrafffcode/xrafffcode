@@ -2,7 +2,7 @@
 
 ##### About Me :
 - 🔭 I’m currently working on developing the app
-- 🌱 I’m currently build my own startup @dilesin.academy @tukang_web
+- 🌱 I’m currently build my own startup @dilesin.academy @toekangweb
 - 📫 How to reach me: yusfiwawan2@gmail.com
 - ⚡ Fun fact: I have high curiosity
 
