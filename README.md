@@ -1,16 +1,16 @@
-<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, I'm Muhamad Rafli Al Farizqi ! </h2>
+<h2>Hello there, I'm Muhamad Rafli Al Farizqi!</h2>
 
-##### About Me :
-- 🔭 I’m currently working on developing the app
-- 🌱 I’m currently build my own startup @dilesin.academy @toekangweb
+##### About Me:
+- 🔭 I’m currently working on developing innovative applications.
+- 🌱 I’m building my own startups: [@dilesin.academy](https://dilesin.academy) and [@toekangweb](https://toekangweb).
 - 📫 How to reach me: yusfiwawan2@gmail.com
-- ⚡ Fun fact: I have high curiosity
+- ⚡ Fun fact: I have a high level of curiosity and a passion for learning.
 
 ##### Education:
 
-1. [SMK Telkom Purwokerto](https://smktelkom-pwt.sch.id/) | RPL (Software engineering) | Purwokerto `2021-2023`
+1. [SMK Telkom Purwokerto](https://smktelkom-pwt.sch.id/) | RPL (Software Engineering) | Purwokerto (2021-2023)
 
-##### Achivement: [My Certificate](https://drive.google.com/drive/folders/1ia5pM_PEJZ6vjCKew8L6tHACalLNkJRY?usp=share_link)
+##### Achievements: [My Certificates](https://drive.google.com/drive/folders/1ia5pM_PEJZ6vjCKew8L6tHACalLNkJRY?usp=share_link)
 
 1. 1st Winner Lomba Kompetensi Siswa Tingkat Kabupaten 2023
 2. 1st Winner Liga Coding For Beginner by Skillvull 2022
